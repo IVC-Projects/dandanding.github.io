@@ -24,9 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Dandan Ding"
   pronouns         : # example: "she/her"  
-  bio              : "Tel:13989472415"
-                   : "llll"
-  employer         : "School of Information Science and Engineering, Hangzhou Normal University"
+  bio              : "School of Information Science and Engineering, Hangzhou Normal University"
+  employer         : #"School of Information Science and Engineering, Hangzhou Normal University"
   location         : "Hangzhou, China"
   email            : "DandanDing@hznu.edu.cn" 
 
