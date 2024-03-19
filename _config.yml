@@ -25,7 +25,7 @@ author:
   name             : "Dandan Ding"
   pronouns         : # example: "she/her"  
   bio1             : "School of Information Science and Engineering, Hangzhou Normal University"
-  bio2             :# "Hangzhou Normal University, Hangzhou, China"
+  bio2             : #"Hangzhou Normal University, Hangzhou, China"
   tel              : "Tel: 13989472415"
   employer         : #"School of Information Science and Engineering, Hangzhou Normal University"
   location         : "Hangzhou, China"
