@@ -35,6 +35,7 @@ Currently, she is active in the development of new video coding algorithms for t
 Graduated 10 M.S. students; advised 30 undergraduate and 10 high school students in research.
 
 **List of papers (recent 5 years)**
+
 **Journal**
 1.	Gexin Liu, Ruixiang Xue, Jiaxin Li, **Dandan Ding***, and Zhan Ma, GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling, IEEE Transactions on Visualization and Computer Graphics (TVCG), Early Access, Nov. 2023.
 2.	Junteng Zhang, Jianqiang Wang, **Dandan Ding***, and Zhan Ma, Scalable Point Cloud Attribute Compression, IEEE Trans. Multimedia (TMM), Early Access, Nov. 2023.
